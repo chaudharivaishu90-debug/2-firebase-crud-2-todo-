@@ -1,0 +1,21 @@
+.my-card{
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgb(183, 179, 179);
+     
+}
+li:hover{
+    background-color: rgba(231, 142, 25, 0.804);
+}
+.spinner{
+    position: fixed;
+    inset: 0;
+    left: 0;
+    top:0;
+    width: 100%;
+    height: 100vh;
+    background-color;rgb(255,  255, 255, .8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
